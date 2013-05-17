@@ -1,0 +1,12 @@
+
+*.swp
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/video
+
+#this is not ingore this file
+#it says ignore everything in video folder but tour_*.mp4
+!assets/video/tour_*.mp4
